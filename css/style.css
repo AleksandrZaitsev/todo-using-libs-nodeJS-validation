@@ -1,0 +1,27 @@
+.col-md-6 {
+    float: none !important;
+}
+
+li {
+    list-style-type: none;
+	padding-bottom: 5px;
+	font-size: 20px;
+}
+
+.container {
+	padding: 40px;
+}
+
+.tasks {
+	padding: 20px 0px 0px 0px;
+}
+
+#addTask {
+	position: relative;
+}
+
+.btn-success {
+	position: absolute;
+	top: 0;
+	right: 0;
+}
